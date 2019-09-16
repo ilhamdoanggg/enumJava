@@ -3,21 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6872ac31-1e29-4514-8a81-6fa9bb2bbee8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EXERCISE02.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EXERCISE02/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EXERCISE02/com/enigma/model/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EXERCISE02/com/enigma/model/Directions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EXERCISE02/com/enigma/model/Mobil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EXERCISE02/com/enigma/model/Robot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/enigma/model/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/enigma/model/Directions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/enigma/model/Mobil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/enigma/model/Robot.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
