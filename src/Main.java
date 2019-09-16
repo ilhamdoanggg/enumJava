@@ -1,6 +1,4 @@
-import com.enigma.model.Directions;
-import com.enigma.model.Mobil;
-import com.enigma.model.Robot;
+import com.enigma.model.*;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -15,13 +13,7 @@ public class Main {
         String coordinate = br.readLine();
         String [] posts = coordinate.split(",");
         System.out.println("Your Coordinate is : " + posts[0] + "," + posts[1] + "," + posts[2]);
-        Robot mark2 = new Robot(Integer.parseInt(posts[0]), Integer.parseInt(posts[1]), Directions.valueOf(posts[2]));
-
-        System.out.print("Make Your Move : ");
-        String inputMove = br.readLine();
-        mark2.move(mark2.setCommands(inputMove), Directions.valueOf(posts[2]));
-        mark2.run(Directions.valueOf(posts[2]));
-        mark2.print();
+        //Robot robot = new Robot(Integer.parseInt(posts[0]), Integer.parseInt(posts[1]), Directions.valueOf(posts[2]));
 
     }
 
