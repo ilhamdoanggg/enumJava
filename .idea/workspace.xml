@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="68c05b6a-3072-47f7-9dbe-0b7fc3f2513f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/enigma/model/Directions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/enigma/model/Directions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/enigma/model/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/enigma/model/Robot.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

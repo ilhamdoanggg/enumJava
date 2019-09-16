@@ -6,10 +6,10 @@ public enum Directions {
     SOUTH,
     WEST;
 
-    public Directions toLeft(){
-        return Directions.valueOf([ordinal()+1)%3];
+     Directions toLeft(){
+        return Directions.values()[(ordinal()+1)%4];
     }
-    public Directions toRight(){
-        return Directions.valueOf([ordinal()+3)%3];
+     Directions toRight(){
+        return Directions.values()[(ordinal()+3)%4];
     }
 }

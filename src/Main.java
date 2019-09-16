@@ -1,4 +1,5 @@
-import com.enigma.model.*;
+import com.enigma.model.Robot;
+import com.enigma.model.Directions;
 
 import java.io.BufferedReader;
 import java.io.IOException;
