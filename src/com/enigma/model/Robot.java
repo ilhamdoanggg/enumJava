@@ -3,10 +3,28 @@ package com.enigma.model;
 import java.util.Arrays;
 
 public class Robot {
+
     Directions directions;
+
     private Integer postX=0;
     private Integer postY=0;
-    private Integer fuel=0;
+    private char [] commands;
+
+    public Robot(Integer x, Integer y, Directions directions){
+        this.postX = x;
+        this.postY = y;
+        this.directions = directions;
+    }
+
+    public getPost(){
+        return postX, postY;
+    }
+
+    public toLeft(){
+
+    }
+}
+ /*   private Integer fuel=0;
     private Integer lMove=0;
     private final String F="F";
     private final String B="B";
@@ -116,4 +134,4 @@ public class Robot {
                 '}';
     }
 }
-
+*/
