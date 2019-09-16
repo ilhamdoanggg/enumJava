@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68c05b6a-3072-47f7-9dbe-0b7fc3f2513f" name="Default Changelist" comment="">
+    <list default="true" id="6872ac31-1e29-4514-8a81-6fa9bb2bbee8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXERCISE02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EXERCISE02/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EXERCISE02/com/enigma/model/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EXERCISE02/com/enigma/model/Directions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EXERCISE02/com/enigma/model/Mobil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EXERCISE02/com/enigma/model/Robot.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/enigma/model/Directions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/enigma/model/Directions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/enigma/model/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/enigma/model/Directions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/enigma/model/Mobil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/enigma/model/Robot.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,12 +25,23 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1QuWoGuefv4S4RsH3FB90RZzYCK" />
+  <component name="ProjectId" id="1QtfUHW4KKaOtJDJUKwa1J3wBUN" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -32,16 +55,30 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Robot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="68c05b6a-3072-47f7-9dbe-0b7fc3f2513f" name="Default Changelist" comment="" />
-      <created>1568621134764</created>
+      <changelist id="6872ac31-1e29-4514-8a81-6fa9bb2bbee8" name="Default Changelist" comment="" />
+      <created>1568594826489</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568621134764</updated>
+      <updated>1568594826489</updated>
     </task>
     <servers />
   </component>
